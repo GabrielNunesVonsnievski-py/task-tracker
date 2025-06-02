@@ -11,7 +11,7 @@
 
 <script lang="ts">
 
-    import { defineComponent, DefineComponent } from 'vue';
+    import { defineComponent } from 'vue';
     import CronometroFormulario from './CronometroFormulario.vue';
 
     export default defineComponent({
@@ -22,3 +22,12 @@
     })
 
 </script>
+
+<style scoped>
+
+    .box{
+        background: #003b00;
+        text: black;
+    }
+
+</style>
