@@ -18,7 +18,7 @@ export default defineComponent({
   name: 'App',
   components: {
     BarraLateral,
-    FormularioTarefa
+    FormularioTarefa,
   }
 });
 </script>
